@@ -18,3 +18,7 @@ I can:
 
 ● Automate projects with google products (Google Sheets, Google Docs etc.)
 
+##TechStars Mentors data scraper into csv
+
+A webscraper that scrapes mentors' name, company and their Linkedin profile link into csv file.
+It requires Selenium and Pandas libraries
