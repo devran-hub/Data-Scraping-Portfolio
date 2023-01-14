@@ -25,3 +25,9 @@ I can:
 
 to visit whole project:
 https://github.com/devran-hub/TechStars-Mentors-Scraper
+
+## Zooplus Complex Product Scraper
+A webscraper that scrapes product name, price, image link, description, SKU, Animal name, Rating, Category
+
+to visit whole project:
+https://github.com/devran-hub/Zooplus-Complex-Product-Scraper
