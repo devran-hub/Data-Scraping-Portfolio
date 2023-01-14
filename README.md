@@ -18,3 +18,7 @@ I can:
 
 ● Automate projects with google products (Google Sheets, Google Docs etc.)
 
+#TechStars Mentors data scraper into excel
+
+ A webscraper that scrapes mentors' name, company and their Linkedin profile link into excel file.
+ It requires Selenium and Pandas libraries
